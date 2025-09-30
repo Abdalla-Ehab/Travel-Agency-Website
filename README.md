@@ -36,14 +36,12 @@ This is a static website for a travel agency, showcasing destination packages, c
 
 - **HTML5**  
 - **CSS3** (including flexbox / grid)  
-- (Optional: you might add frameworks later, e.g. Bootstrap, JavaScript, a back-end)
 
 ## Getting Started
 
 ### Prerequisites
 
-You need a web browser (Chrome, Firefox, Edge, etc.)  
-A code editor such as VSCode, Sublime Text, or others.
+You need a web browser (Chrome, Firefox, Edge, etc.)
 
 ## Folder Structure
 
@@ -63,7 +61,4 @@ Travel-Agency-Website/
 Your Name — abdallaihab55@gmail.com  
 Project Link: https://github.com/Abdalla-Ehab/Travel-Agency-Website
 
----
-
-*Happy coding!*  
 ```
