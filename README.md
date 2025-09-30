@@ -32,10 +32,6 @@ This is a static website for a travel agency, showcasing destination packages, c
 - Image gallery / banner  
 - Contact form UI (front-end only)  
 
-## Demo / Screenshots
-
-*(Include a live demo link if deployed, and/or insert screenshots here.)*
-
 ## Tech Stack
 
 - **HTML5**  
@@ -48,27 +44,6 @@ This is a static website for a travel agency, showcasing destination packages, c
 
 You need a web browser (Chrome, Firefox, Edge, etc.)  
 A code editor such as VSCode, Sublime Text, or others.
-
-### Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/Abdalla-Ehab/Travel-Agency-Website.git
-    ```
-
-2. Navigate into the project directory:
-
-    ```bash
-    cd Travel-Agency-Website
-    ```
-
-### Running Locally
-
-Since this is a static site:
-
-- You can open `index.html` directly in your browser.
-- Or use a simple static server (e.g. via VSCode’s Live Server extension, `npx http-server`, etc.)
 
 ## Folder Structure
 
